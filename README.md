@@ -1,4 +1,4 @@
-#  Springboot-CRUD-app
+#  Springboot-CRUD-App
 springboot-crudapp is demonstrating how to implement simple CRUD operations with a Department entity.
 
 ## What's inside 
