@@ -57,7 +57,7 @@ Delete:
     
      -> http://localhost:8080/departments/delete/{deptId}
       
-        create the API request for this delete functionality by setting method as 'DELETE' and use appropriate 'deptId' in the url
+        create the API request for this delete functionality by setting method as 'GET' and use appropriate 'deptId' in the url
 
 Get Dept By Name: 
     
